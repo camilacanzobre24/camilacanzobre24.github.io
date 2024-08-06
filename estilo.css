@@ -1,0 +1,47 @@
+body {
+    background-image: url("fondo.jpg");
+  }
+h1{
+    text-align: center;
+}
+
+h2{
+    text-decoration-line: underline;
+}
+
+#segundoTitulo{
+    background-color: #e43dc3;
+    font-style: italic;
+}
+
+#fotoCV{
+    width: 15%;
+    border: 5px solid #e43dc3;
+    float: right;
+}
+
+.sobreMi{
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.subtextos{
+    background-color: antiquewhite;
+}
+
+ul{
+    list-style-type:circle;
+    display: block;
+    list-style-position: inside;
+}
+
+span{
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.fotos{
+    width: 10%;
+    float:left;
+}
+
