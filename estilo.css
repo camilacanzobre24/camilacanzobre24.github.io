@@ -57,7 +57,7 @@ span {
 /* Ajustes para celulares y tablets */
 @media (max-width: 768px) {
     #fotoCV {
-        width: 100%; /*garantiza que la imagen se ajuste al ancho disponible*/
+        width: 100%; /*garantiza que la imagen se ajuste al ancho disponible de la pantalla*/
         float: none; /*Elimina cualquier flotado de la imagen*/
         display: block; /*Cambia el comportamiento de la imagen a un elemento de bloque*/
         margin: 0 auto; /* Centra la imagen si es necesario */
